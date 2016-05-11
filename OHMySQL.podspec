@@ -13,7 +13,6 @@ You can connect to your remote MySQL database using OHMySQL API. It allows you d
   s.license          = 'MIT'
   s.author           = { 'Oleg' => 'oleg.oleksan@gmail.com' }
   s.source           = { :git => 'https://github.com/oleghnidets/OHMySQL.git', :tag => s.version.to_s }
-  s.platform         = :ios, '8.4'
   s.requires_arc     = true
   s.source_files     = 'OHMySQL/*.{h,m}'
   s.frameworks       = 'Foundation'
